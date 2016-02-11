@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-lower-standard",
   "description": "JavaScript Lower Standard Style - ESLint Shareable Config",
-  "version": "5.1.0-1",
+  "version": "5.1.0-2",
   "author": {
     "name": "Jason Pincin",
     "email": "jason@pincin.com"
